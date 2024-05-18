@@ -3,5 +3,6 @@
 
 #Current security checker result
 <h2>Beheersysteem</h2>
+
 [![security-checker](https://github.com/Virtual-Vitality-Project/Beheersysteem/actions/workflows/main.yml/badge.svg)](https://github.com/Virtual-Vitality-Project/Beheersysteem/actions/workflows/main.yml)
 
