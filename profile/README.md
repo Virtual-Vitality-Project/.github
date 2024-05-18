@@ -10,3 +10,6 @@
 
 [![security-checker](https://github.com/Virtual-Vitality-Project/BlackBox/actions/workflows/main.yml/badge.svg)](https://github.com/Virtual-Vitality-Project/BlackBox/actions/workflows/main.yml)
 
+<h2>VR-environment</h2>
+
+[![security-checker](https://github.com/Virtual-Vitality-Project/VR-Environment/actions/workflows/main.yml/badge.svg)](https://github.com/Virtual-Vitality-Project/VR-Environment/actions/workflows/main.yml)
