@@ -17,3 +17,7 @@
 <h2>Testomgeving</h2>
 
 [![security-checker](https://github.com/Virtual-Vitality-Project/Testomgeving/actions/workflows/main.yml/badge.svg)](https://github.com/Virtual-Vitality-Project/Testomgeving/actions/workflows/main.yml)
+
+<h2>Library</h2>
+
+[![security-checker](https://github.com/Virtual-Vitality-Project/IT-Specialist/actions/workflows/main.yml/badge.svg)](https://github.com/Virtual-Vitality-Project/IT-Specialist/actions/workflows/main.yml)
