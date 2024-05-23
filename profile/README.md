@@ -33,7 +33,7 @@ Our diverse team of experts works across multiple domains to deliver high-qualit
 ## Contact Us
 
 For any inquiries or further information, feel free to reach out to us:
-- Email: ValeraZSD@gmail.com
+- Email: 204336@edu.rocfriesepoort.nl
 
 Thank you for visiting our GitHub page. We look forward to improve our project even more!
 
